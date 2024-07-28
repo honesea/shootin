@@ -1,1 +1,12 @@
 .DS_Store
+
+Packages
+wally.lock
+
+# Project place file
+/shootin.rbxl
+/shootin.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
