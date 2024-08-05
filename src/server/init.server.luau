@@ -1,1 +1,2 @@
-print("Hello world, from server!")
+local map = require(script.Map)
+map.new()
