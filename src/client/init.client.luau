@@ -1,1 +1,1 @@
-print("Hello world, from client!")
+game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, false)
